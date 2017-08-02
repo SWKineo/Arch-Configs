@@ -1,0 +1,27 @@
+2017/08/02-09:40:21.174 1235 Reusing MANIFEST /home/swk/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/08/02-09:40:21.174 1235 Recovering log #841
+2017/08/02-09:40:21.233 1235 Reusing old log /home/swk/.config/chromium/Default/Session Storage/000841.log 
+2017/08/02-09:55:17.275 5946 Level-0 table #845: started
+2017/08/02-09:55:17.332 5946 Level-0 table #845: 18384 bytes OK
+2017/08/02-09:55:17.366 5946 Delete type=0 #841
+2017/08/02-10:42:16.467 5946 Compacting 1@0 + 1@1 files
+2017/08/02-10:42:16.501 5946 Generated table #846@0: 425 keys, 13935 bytes
+2017/08/02-10:42:16.501 5946 Compacted 1@0 + 1@1 files => 13935 bytes
+2017/08/02-10:42:16.534 5946 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/02-10:42:16.535 5946 Delete type=2 #842
+2017/08/02-10:42:16.535 5946 Delete type=2 #845
+2017/08/02-12:15:50.190 5946 Level-0 table #848: started
+2017/08/02-12:15:50.252 5946 Level-0 table #848: 19689 bytes OK
+2017/08/02-12:15:50.277 5946 Delete type=0 #844
+2017/08/02-15:00:58.674 5946 Compacting 1@0 + 1@1 files
+2017/08/02-15:00:58.717 5946 Generated table #849@0: 663 keys, 22236 bytes
+2017/08/02-15:00:58.717 5946 Compacted 1@0 + 1@1 files => 22236 bytes
+2017/08/02-15:00:58.768 5946 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/02-15:00:58.768 5946 Delete type=2 #848
+2017/08/02-15:00:58.768 5946 Delete type=2 #846
+2017/08/02-15:03:16.005 5946 Level-0 table #851: started
+2017/08/02-15:03:16.099 5946 Level-0 table #851: 23343 bytes OK
+2017/08/02-15:03:16.133 5946 Delete type=0 #847
+2017/08/02-15:11:13.512 5946 Level-0 table #853: started
+2017/08/02-15:11:13.571 5946 Level-0 table #853: 20795 bytes OK
+2017/08/02-15:11:13.614 5946 Delete type=0 #850

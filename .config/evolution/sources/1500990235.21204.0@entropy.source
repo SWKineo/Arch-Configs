@@ -1,0 +1,25 @@
+[Data Source]
+DisplayName=informe
+Enabled=true
+Parent=1500990235.21204.1@entropy
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+
+[Mail Identity]
+Address=spencer.ward@egov.com
+Aliases=
+Name=Spencer Ward
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1500990235.21204.13@entropy
+RepliesToOriginFolder=false

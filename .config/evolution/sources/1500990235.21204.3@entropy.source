@@ -1,0 +1,14 @@
+[Data Source]
+DisplayName=informe
+Enabled=true
+Parent=1500990235.21204.1@entropy
+
+[Refresh]
+Enabled=true
+IntervalMinutes=10
+
+[Mail Account]
+BackendName=ews
+IdentityUid=1500990235.21204.0@entropy
+ArchiveFolder=
+NeedsInitialSetup=true

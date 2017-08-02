@@ -1,0 +1,21 @@
+2017/08/01-07:34:15.618 741 Reusing MANIFEST /home/swk/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/08/01-07:34:15.619 741 Recovering log #834
+2017/08/01-07:34:15.656 741 Reusing old log /home/swk/.config/chromium/Default/Session Storage/000834.log 
+2017/08/01-09:33:36.065 3867 Compacting 1@1 + 1@2 files
+2017/08/01-09:33:36.146 3867 Generated table #837@1: 62 keys, 4432 bytes
+2017/08/01-09:33:36.147 3867 Compacted 1@1 + 1@2 files => 4432 bytes
+2017/08/01-09:33:36.180 3867 compacted to: files[ 0 0 1 0 0 0 0 ]
+2017/08/01-09:33:36.180 3867 Delete type=2 #833
+2017/08/01-09:33:36.181 3867 Delete type=2 #835
+2017/08/01-10:04:27.682 3867 Level-0 table #839: started
+2017/08/01-10:04:27.730 3867 Level-0 table #839: 19741 bytes OK
+2017/08/01-10:04:27.773 3867 Delete type=0 #834
+2017/08/01-11:38:06.584 3867 Compacting 1@1 + 1@2 files
+2017/08/01-11:38:06.647 3867 Generated table #840@1: 89 keys, 6699 bytes
+2017/08/01-11:38:06.647 3867 Compacted 1@1 + 1@2 files => 6699 bytes
+2017/08/01-11:38:06.680 3867 compacted to: files[ 0 0 1 0 0 0 0 ]
+2017/08/01-11:38:06.681 3867 Delete type=2 #837
+2017/08/01-11:38:06.681 3867 Delete type=2 #839
+2017/08/01-13:29:45.721 3867 Level-0 table #842: started
+2017/08/01-13:29:46.032 3867 Level-0 table #842: 34913 bytes OK
+2017/08/01-13:29:46.057 3867 Delete type=0 #838

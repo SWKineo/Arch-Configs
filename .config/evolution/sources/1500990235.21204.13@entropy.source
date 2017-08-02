@@ -1,0 +1,7 @@
+[Data Source]
+DisplayName=informe
+Enabled=true
+Parent=1500990235.21204.1@entropy
+
+[Mail Transport]
+BackendName=ews

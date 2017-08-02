@@ -1,0 +1,15 @@
+!urxvt*background: termbg
+!urxvt*foreground: termfg
+URxvt*depth: 32
+!Urxvt.transparent: true
+!URxvt.shading:true
+!URxvt.inheritPixmap: true
+URxvt*font: xft:Fantasque Sans Mono:size=10
+!URxvt*font: xft:Roboto Mono for Powerline:size=10
+!URxvt*font: xft:Meslo LG M DZ for Powerline:size=9
+URxvt.letterspace: 0
+Urxvt.perl-ext-common: default,matcher,resize-font
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+urxvt*scrollBar: off
+URxvt.intensityStyles: false

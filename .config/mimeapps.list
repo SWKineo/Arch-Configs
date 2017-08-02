@@ -1,0 +1,8 @@
+[Added Associations]
+application/zip=xarchiver.desktop;Thunar-folder-handler.desktop;
+application/x-compressed-tar=xarchiver.desktop;
+text/plain=chromium.desktop;
+x-scheme-handler/mailto=userapp-Evolution-GM903Y.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Evolution-GM903Y.desktop
