@@ -1,1 +1,3 @@
-2017/07/26-12:13:53.124 3937 Reusing MANIFEST /home/swk/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/08/23-09:33:48.572 744 Reusing MANIFEST /home/swk/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/08/23-09:33:48.573 744 Recovering log #3
+2017/08/23-09:33:48.573 744 Reusing old log /home/swk/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000003.log 

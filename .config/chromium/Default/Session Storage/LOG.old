@@ -1,21 +1,73 @@
-2017/08/01-07:34:15.618 741 Reusing MANIFEST /home/swk/.config/chromium/Default/Session Storage/MANIFEST-000001
-2017/08/01-07:34:15.619 741 Recovering log #834
-2017/08/01-07:34:15.656 741 Reusing old log /home/swk/.config/chromium/Default/Session Storage/000834.log 
-2017/08/01-09:33:36.065 3867 Compacting 1@1 + 1@2 files
-2017/08/01-09:33:36.146 3867 Generated table #837@1: 62 keys, 4432 bytes
-2017/08/01-09:33:36.147 3867 Compacted 1@1 + 1@2 files => 4432 bytes
-2017/08/01-09:33:36.180 3867 compacted to: files[ 0 0 1 0 0 0 0 ]
-2017/08/01-09:33:36.180 3867 Delete type=2 #833
-2017/08/01-09:33:36.181 3867 Delete type=2 #835
-2017/08/01-10:04:27.682 3867 Level-0 table #839: started
-2017/08/01-10:04:27.730 3867 Level-0 table #839: 19741 bytes OK
-2017/08/01-10:04:27.773 3867 Delete type=0 #834
-2017/08/01-11:38:06.584 3867 Compacting 1@1 + 1@2 files
-2017/08/01-11:38:06.647 3867 Generated table #840@1: 89 keys, 6699 bytes
-2017/08/01-11:38:06.647 3867 Compacted 1@1 + 1@2 files => 6699 bytes
-2017/08/01-11:38:06.680 3867 compacted to: files[ 0 0 1 0 0 0 0 ]
-2017/08/01-11:38:06.681 3867 Delete type=2 #837
-2017/08/01-11:38:06.681 3867 Delete type=2 #839
-2017/08/01-13:29:45.721 3867 Level-0 table #842: started
-2017/08/01-13:29:46.032 3867 Level-0 table #842: 34913 bytes OK
-2017/08/01-13:29:46.057 3867 Delete type=0 #838
+2017/08/23-09:09:37.812 737 Reusing MANIFEST /home/swk/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/08/23-09:09:37.813 737 Recovering log #1016
+2017/08/23-09:09:37.850 737 Reusing old log /home/swk/.config/chromium/Default/Session Storage/001016.log 
+2017/08/23-09:39:28.111 2239 Level-0 table #1020: started
+2017/08/23-09:39:28.191 2239 Level-0 table #1020: 19569 bytes OK
+2017/08/23-09:39:28.241 2239 Delete type=0 #1016
+2017/08/23-10:02:09.056 2239 Compacting 2@0 + 1@1 files
+2017/08/23-10:02:09.136 2239 Generated table #1021@0: 2234 keys, 51609 bytes
+2017/08/23-10:02:09.136 2239 Compacted 2@0 + 1@1 files => 51609 bytes
+2017/08/23-10:02:09.187 2239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/23-10:02:09.187 2239 Delete type=2 #1017
+2017/08/23-10:02:09.187 2239 Delete type=2 #1020
+2017/08/23-10:02:09.187 2239 Delete type=2 #1015
+2017/08/23-10:09:51.460 2239 Level-0 table #1023: started
+2017/08/23-10:09:51.535 2239 Level-0 table #1023: 19120 bytes OK
+2017/08/23-10:09:51.569 2239 Delete type=0 #1019
+2017/08/23-10:28:33.825 2239 Compacting 1@0 + 1@1 files
+2017/08/23-10:28:33.901 2239 Generated table #1024@0: 2240 keys, 60544 bytes
+2017/08/23-10:28:33.901 2239 Compacted 1@0 + 1@1 files => 60544 bytes
+2017/08/23-10:28:33.943 2239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/23-10:28:33.943 2239 Delete type=2 #1021
+2017/08/23-10:28:33.944 2239 Delete type=2 #1023
+2017/08/23-12:21:48.624 2239 Level-0 table #1026: started
+2017/08/23-12:21:48.683 2239 Level-0 table #1026: 20609 bytes OK
+2017/08/23-12:21:48.717 2239 Delete type=0 #1022
+2017/08/23-13:40:09.954 2239 Compacting 1@0 + 1@1 files
+2017/08/23-13:40:10.022 2239 Generated table #1027@0: 2318 keys, 74724 bytes
+2017/08/23-13:40:10.022 2239 Compacted 1@0 + 1@1 files => 74724 bytes
+2017/08/23-13:40:10.056 2239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/23-13:40:10.056 2239 Delete type=2 #1026
+2017/08/23-13:40:10.056 2239 Delete type=2 #1024
+2017/08/23-13:42:20.372 2239 Level-0 table #1029: started
+2017/08/23-13:42:20.429 2239 Level-0 table #1029: 19214 bytes OK
+2017/08/23-13:42:20.506 2239 Delete type=0 #1025
+2017/08/23-14:23:20.760 2239 Compacting 1@0 + 1@1 files
+2017/08/23-14:23:20.801 2239 Generated table #1030@0: 2370 keys, 82452 bytes
+2017/08/23-14:23:20.801 2239 Compacted 1@0 + 1@1 files => 82452 bytes
+2017/08/23-14:23:20.835 2239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/23-14:23:20.836 2239 Delete type=2 #1027
+2017/08/23-14:23:20.836 2239 Delete type=2 #1029
+2017/08/23-14:23:41.849 2239 Level-0 table #1032: started
+2017/08/23-14:23:41.907 2239 Level-0 table #1032: 21900 bytes OK
+2017/08/23-14:23:41.933 2239 Delete type=0 #1028
+2017/08/23-14:35:25.932 2239 Compacting 1@0 + 1@1 files
+2017/08/23-14:35:25.996 2239 Generated table #1033@0: 2420 keys, 78689 bytes
+2017/08/23-14:35:25.996 2239 Compacted 1@0 + 1@1 files => 78689 bytes
+2017/08/23-14:35:26.030 2239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/23-14:35:26.030 2239 Delete type=2 #1030
+2017/08/23-14:35:26.030 2239 Delete type=2 #1032
+2017/08/23-14:37:19.859 2239 Level-0 table #1035: started
+2017/08/23-14:37:19.901 2239 Level-0 table #1035: 23710 bytes OK
+2017/08/23-14:37:19.969 2239 Delete type=0 #1031
+2017/08/23-15:55:50.017 2239 Compacting 1@0 + 1@1 files
+2017/08/23-15:55:50.089 2239 Generated table #1036@0: 2465 keys, 68982 bytes
+2017/08/23-15:55:50.089 2239 Compacted 1@0 + 1@1 files => 68982 bytes
+2017/08/23-15:55:50.114 2239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/23-15:55:50.115 2239 Delete type=2 #1035
+2017/08/23-15:55:50.115 2239 Delete type=2 #1033
+2017/08/23-16:22:38.864 2239 Compacting 1@1 + 1@2 files
+2017/08/23-16:22:38.951 2239 Generated table #1037@1: 285 keys, 22987 bytes
+2017/08/23-16:22:38.951 2239 Compacted 1@1 + 1@2 files => 22987 bytes
+2017/08/23-16:22:38.985 2239 compacted to: files[ 0 0 1 0 0 0 0 ]
+2017/08/23-16:22:38.985 2239 Delete type=2 #1036
+2017/08/23-16:22:38.986 2239 Delete type=2 #875
+2017/08/23-16:24:04.985 2239 Level-0 table #1039: started
+2017/08/23-16:24:05.017 2239 Level-0 table #1039: 20569 bytes OK
+2017/08/23-16:24:05.084 2239 Delete type=0 #1034
+2017/08/23-16:34:17.496 2239 Level-0 table #1041: started
+2017/08/23-16:34:17.563 2239 Level-0 table #1041: 19935 bytes OK
+2017/08/23-16:34:17.630 2239 Delete type=0 #1038
+2017/08/23-16:36:50.025 2239 Level-0 table #1043: started
+2017/08/23-16:36:50.059 2239 Level-0 table #1043: 17778 bytes OK
+2017/08/23-16:36:50.101 2239 Delete type=0 #1040

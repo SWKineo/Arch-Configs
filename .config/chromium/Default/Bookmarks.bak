@@ -1,0 +1,48 @@
+{
+   "checksum": "4b1935f85ddb60de049446d5ebe0d3a8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13146330988067218",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13147953459573927"
+            },
+            "name": "Outlook Web App",
+            "type": "url",
+            "url": "https://owa.egov.com/owa/"
+         }, {
+            "date_added": "13146760837036510",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13147779538515228"
+            },
+            "name": "InforME New Support Wiki",
+            "type": "url",
+            "url": "http://jbox/new_wiki/doku.php"
+         } ],
+         "date_added": "13145022441892910",
+         "date_modified": "13146760837036510",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13145022441892921",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13145022441892923",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
